@@ -1,5 +1,5 @@
 {
-    "name": "Komdat_USBToParalel",
+    "name": "AE_Komdat_USBToParalel",
     "keywords": "polman, komunikasi data, serial, device control",
     "description": "This library is intended to be used for USB to Paralel Modul.",
     "authors": {
@@ -9,7 +9,7 @@
         "type": "git",
         "url": "https://github.com/haunt07/AE_Komdat_USBToParalel.git"
     },
-    "version": "1.0.2",
+    "version": "1.0.3",
     "frameworks": "arduino",
     "platforms": "atmelavr"
 }
